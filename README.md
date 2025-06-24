@@ -1,4 +1,6 @@
 # RequestaCv
+I am learning Elixir through this ambitious project!
+
 
 To start your Phoenix server:
 
